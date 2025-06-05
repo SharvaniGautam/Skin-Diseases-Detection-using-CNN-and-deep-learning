@@ -57,6 +57,11 @@ Confusion Matrix (Raw + Visual):
 
 [Confusion Matrix](images/IMG-20250426-WA0001.jpg)  
 [Confusion Matrix Heatmap](images/IMG-20250426-WA0004.jpg)
+![Workflow](images/IMG-20250424-WA0002.jpg)
+![Model Architecture](images/IMG-20250424-WA0007.jpg)
+![Confusion Matrix](images/IMG-20250426-WA0001.jpg)
+![Confusion Matrix Heatmap](images/IMG-20250426-WA0004.jpg)
+
 
 
 
