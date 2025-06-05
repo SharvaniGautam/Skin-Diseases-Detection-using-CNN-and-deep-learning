@@ -39,7 +39,7 @@ Input size: 224x224
 
 Model is built using **MobileNetV2** and trained on 8 skin conditions.  
 
-![Model Architecture](images/IMG-20250424-WA0007.jpg)
+[Model Architecture](images/IMG-20250424-WA0007.jpg)
 
 ---
 
@@ -47,7 +47,7 @@ Model is built using **MobileNetV2** and trained on 8 skin conditions.
 
 The app follows a systematic ML lifecycle from data collection to deployment:
 
-![Workflow](images/IMG-20250424-WA0002.jpg)
+[Workflow](images/IMG-20250424-WA0002.jpg)
 
 ---
 
@@ -55,8 +55,8 @@ The app follows a systematic ML lifecycle from data collection to deployment:
 
 Confusion Matrix (Raw + Visual):
 
-![Confusion Matrix](images/IMG-20250426-WA0001.jpg)  
-![Confusion Matrix Heatmap](images/IMG-20250426-WA0004.jpg)
+[Confusion Matrix](images/IMG-20250426-WA0001.jpg)  
+[Confusion Matrix Heatmap](images/IMG-20250426-WA0004.jpg)
 
 
 
